@@ -3,4 +3,4 @@
 })();
 console.log(b);
 console.log(a);
-hsdhg
+console.log("data");
