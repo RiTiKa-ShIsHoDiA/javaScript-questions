@@ -15,6 +15,6 @@ console.log(StringChallenge(str));
 
 
 
-console.log("aj sindara dene gayi bua ke");
-var data = 4;
+console.log("ritika tu kr skti  hai");
+
 
