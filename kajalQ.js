@@ -12,3 +12,4 @@ function StringChallenge(sen){
     return newSen;
 }
 console.log(StringChallenge(str));
+console.log("kajal");
