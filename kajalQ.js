@@ -11,10 +11,4 @@ function StringChallenge(sen){
     }
     return newSen;
 }
-console.log(StringChallenge(str));
-
-
-
-console.log("aj sindara dene gayi bua ke");
-var data = 4;
 
