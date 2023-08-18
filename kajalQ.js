@@ -12,9 +12,6 @@ function StringChallenge(sen){
     return newSen;
 }
 console.log(StringChallenge(str));
-
-
-
 console.log("ritika tu kr skti  hai");
 
 
